@@ -1,0 +1,9 @@
+main.c:82:8:greeting_init	3
+main.c:70:5:main	3
+main.c:100:8:init	1
+main.c:237:8:handler_click	5
+main.c:324:6:SystemClock_Config	3
+main.c:360:13:MX_SPI1_Init	2
+main.c:398:13:MX_DMA_Init	1
+main.c:416:13:MX_GPIO_Init	1
+main.c:475:6:Error_Handler	1
